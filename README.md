@@ -11,5 +11,5 @@
 
 3. Micro Servo Motor
 
-![Micro Servo Motor(/img/servo.jpg)
+![Micro Servo Motor](/img/servo.jpg)
 
