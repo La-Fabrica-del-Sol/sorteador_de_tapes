@@ -1,8 +1,8 @@
-# Sorteador de tapes d'ampolles
+# Separador de tapes d'ampolles
 - **Què es?** Es tracta d'una divertida màquina que classifica les tapes d'ampolles de plàstic pel seu color.
-- **Per a què serveix?**  Després que els taps d'ampolla hagin estat ordenats per color, es poden reciclar, es tallaran, es fongui i es converteixen en quelcom nou.
-- **Puc jugar amb ell?** Per descomptat que pot! Accediu a la Fabrica del Sol i pregunteu-nos.
-- **Puc crear el meu propi màquina de sorteador de tapes d'ampolla?** Sí! Vegeu les instruccions a continuació.
+- **Per a què serveix?**  Després que els taps d'ampolla hagin estat ordenats per color, es poden reciclar, es tallaran, es fondran i es converteixen en quelcom nou.
+- **Puc jugar amb ell?** Per descomptat que es pot! Accediu a la Fabrica del Sol i pregunteu-nos-ho.
+- **Puc crear la meva pròpia màquina de separador de tapes d'ampolla?** Sí! Vegeu les instruccions a continuació.
 
 ## Materials
 **1. Arduino Nano**
@@ -29,7 +29,7 @@ Aquí inclourem un diagrama de les connexions utilitzant [Fritzing](http://fritz
 ## Codi
 Ara que hem muntat la màquina, hem d'indicar què fer amb el nostre codi. Podeu descarregar el codi fen clic dret i deseu-lo aquí- el sketch de Arduino es diu [sorteador_de_tapes_codi.ino](https://raw.githubusercontent.com/La-Fabrica-del-Sol/sorteador_de_tapes/master/sorteador_de_tapes_codi.ino). Per comprendre el que farà el nostre codi, podem escriure-ho de manera senzilla: això es diu pseudocodi
 ```
-### Pseudocodi del Sorteador de tapes d'ampolles###
+### Pseudocodi del Separador de tapes d'ampolles###
 0. Moveu el braç cap a la posició inicial
 1. Marqueu si hi ha un tap de l'ampolla en el braç davant del sensor 
 2. Detecta el color del tap de l'ampolla 
