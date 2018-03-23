@@ -27,12 +27,13 @@ Aquests petits servomotors de 9 grams s'utilitzen sovint en cotxes RC, vaixells 
 Aquí inclourem un diagrama de les connexions utilitzant [Fritzing](http://fritzing.org/home/).
 
 ## Codi
-Ara que hem muntat la màquina, hem d'indicar què fer amb el nostre codi. Per comprendre el que farà el nostre codi, podem escriure-ho de manera senzilla: això es diu pseudocodi
+Ara que hem muntat la màquina, hem d'indicar què fer amb el nostre codi. Podeu descarregar el codi fen clic dret i deseu-lo aquí- el sketch de Arduino es diu [sorteador_de_tapes_codi.ino](https://raw.githubusercontent.com/La-Fabrica-del-Sol/sorteador_de_tapes/master/sorteador_de_tapes_codi.ino). Per comprendre el que farà el nostre codi, podem escriure-ho de manera senzilla: això es diu pseudocodi
 ```
 ### Pseudocodi del Sorteador de tapes d'ampolles###
-1. Marqueu si el tap de l'ampolla es troba davant del sensor 
-2. detecta el color del tap de l'ampolla 
-3. moure el tap d'ampolla a la pila correcta
+0. Moveu el braç cap a la posició inicial
+1. Marqueu si hi ha un tap de l'ampolla en el braç davant del sensor 
+2. Detecta el color del tap de l'ampolla 
+3. Moure el braç amb el tap d'ampolla a la pila correcta
 
 ```
 
